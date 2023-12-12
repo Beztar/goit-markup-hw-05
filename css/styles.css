@@ -501,7 +501,7 @@ img {display: block;}
 .accent-color {color:#4D5AE5;}
 
 .form-checkbox:checked+.form-checkbox-label>.form-own-checkbox {
-    background-color:#4D5AE5; 
+    background-color:var(--accent-color); 
     border: none;
     fill: #F4F4FD;}
 
